@@ -42,9 +42,7 @@ const HomeScreen = () => {
         <View style={styles.centerContainer}>
             <View style={styles.centerContainerHorizontal}>
                 <View style={styles.centerContainer}>
-                    <Button
-                        title="# Passes"
-                    />
+                    <Button title="# Passes" />
                 </View>
                 <View style={styles.centerContainer}>
                     <Button
